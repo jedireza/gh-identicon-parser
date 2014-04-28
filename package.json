@@ -1,0 +1,16 @@
+{
+  "name": "gh-identicon-parser",
+  "version": "0.0.0",
+  "description": "blarg",
+  "main": "index.js",
+  "dependencies": {
+    "pngparse": "~2.0.1",
+    "request": "~2.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reza Akhavan <jedireza@gmail.com> (http://reza.akhavan.me/)",
+  "license": "MIT"
+}
